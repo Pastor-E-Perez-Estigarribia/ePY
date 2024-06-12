@@ -1,0 +1,22 @@
+filter(Dpto == "ASUNCION" | 
+             Dpto == "CENTRAL") # eje metropolitano
+			 
+  filter(Dpto == "ALTO PARANA" | 
+           Dpto == "CAAGUAZU" | 
+           Dpto == "GUAIRA"   | 
+           Dpto== "CORDILLERA" | 
+           Dpto == "CAAZAPA" )  # eje centro este
+		   
+  filter(Dpto == "CANINDEYU" | 
+           Dpto == "SAN PEDRO" | 
+           Dpto == "CONCEPCION"   | 
+           Dpto == "AMAMBAY") # eje centro norte
+		   
+  filter(Dpto == "ITAPUA" | 
+           Dpto == "PARAGUARI" | 
+           Dpto == "MISIONES"| 
+           Dpto == "ÑEEMBUCU") # eje centro sur
+		   
+  filter(Dpto == "BOQUERON" | 
+           Dpto == "PTE HAYES" | 
+           Dpto == "ALTO PARAGUAY") # eje chaco

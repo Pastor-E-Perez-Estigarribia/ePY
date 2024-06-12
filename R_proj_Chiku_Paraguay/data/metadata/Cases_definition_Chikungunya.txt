@@ -1,0 +1,5 @@
+Dirección General de Vigilancia de la Salud (comunicación personal Martha Torales <martha_torales@yahoo.com>)
+Confirmado: todo caso sospechoso con RT-PCR positivo a Chikungunya o aislamineto viral
+Probable: todo caso sospechoso (clínica) + nexo epidemiológico  o ; que cuente con resultados de laboratorio positivo para Chikungunya (ELISA IgM para Chikungunya)
+Descartado: toda sospecha que tenga resultados de RT-PCR negativas para CHIK con muestra tomada en el periodo de viremia.
+Sospechoso: toda persona con inicio brusco de fiebre y artralgia o artritis incapacitante de inicio súbito no explicada por otra condición médica. 

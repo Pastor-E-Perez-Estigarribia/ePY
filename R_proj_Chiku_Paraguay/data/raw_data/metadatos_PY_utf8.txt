@@ -1,0 +1,27 @@
+omm_id	nombre	lon_grad	lon_min	lon_seg	lon_hem	lat_grad	lat_min	lat_seg	lat_hem	lon_dec	lat_dec	elev	pais_iso2c	nivel_adm_1	nivel_adm_2	fecha_inicio	fecha_fin	activa	operador	id_interno	tipo_estacion
+86011	Base Aérea “Gral. Div. Adrián Jara”	59	29	38.94	W	19	32	28.32	S	-59.494	-19.541	143	PY	Alto Paraguay	Mayor Pablo Lagerenza	01/05/1973	NA	si	DINAC	NA	C
+86033	Bahía Negra	58	20	8.86	W	20	13	38.52	S	-58.336	-20.227	82	PY	Alto Paraguay	Fuerte Olimpo	01/01/1956	NA	si	DINAC	NA	C
+86065	Base Aérea “Tte. 2º de Mna. Pelayo Prats Gill” 	61	33	36.40	W	22	33	30.33	S	-61.560	-22.558	206	PY	Boquerón	Dr. Pedro- P. Peña	01/01/1972	NA	si	DINAC	NA	C
+86068	Aeropuerto de Mcal. José Félix Estigarribia	60	37	8.26	W	22	1	49.94	S	-60.619	-22.031	167	PY	Boquerón	Mcal. Estigarribia	01/01/1950	NA	si	DINAC	NA	C
+86086	Puerto Casado	57	56	28.71	W	22	16	58.89	S	-57.941	-22.283	78	PY	Alto Paraguay	La Victoria	01/01/1947	NA	si	DINAC	NA	C
+86097	Aeródromo de Pedro Juan Caballero	55	49	57.81	W	22	38	25.00	S	-55.833	-22.640	563	PY	Amambay	Pedro Juan Caballero	01/01/1959	NA	si	DINAC	NA	C
+86125	Pozo Colorado125	59	12	5.598	W	23	17	54.265	S	-59.202	-23.298	98	PY	Presidente Hayes	Pozo Colorado	01/11/1970	30/06/1992	No	DINAC	NA	C
+86128	Pozo Colorado	58	47	25.31	W	23	29	51.84	S	-58.790	-23.498	98	PY	Presidente Hayes	Pozo Colorado	01/01/1995	NA	si	DINAC	NA	C
+86134	Aeródromo de Concepción 	57	25	48.67	W	23	26	29.51	S	-57.430	-23.442	75	PY	Concepción	Concepción	11/06/1959	NA	si	DINAC	NA	C
+86170	Gral. José María Bruguez	58	50	9.93	W	24	44	30.04	S	-58.836	-24.742	89	PY	Presidente Hayes	Gral. José María Bruguez	01/01/1992	NA	si	DINAC	NA	C
+86185	Aeródromo de San Pedro del Ycuá Mandyju 	57	5	15.17	W	24	5	6.85	S	-57.088	-24.085	81	PY	San Pedro	San Pedro	01/08/1994	NA	si	DINAC	NA	C
+86192	San Estanislao	56	26	53.29	W	24	40	1.00	S	-56.448	-24.667	183	PY	San Pedro	San Estanislao	01/04/1975	NA	si	DINAC	NA	C
+86210	Aeródromo de Salto del Guairá	54	21	13.81	W	24	1	57.27	S	-54.354	-24.033	297	PY	Canindeyú?	Salto del Guaira	01/09/1975	NA	si	DINAC	NA	C
+86218	Aeropuerto “Silvio Pettirossi”	57	30	53.08	W	25	14	9.99	S	-57.515	-25.236	83	PY	Central	Luque	01/09/1959	NA	si	DINAC	NA	C
+86221	Paraguarí	57	8	44.99	W	25	37	36.51	S	-57.146	-25.627	116	PY	Paraguarí	Paraguarí	01/01/1981	NA	si	DINAC	NA	C
+86233	Villarrica del Espíritu Santo 	56	26	16.46	W	25	45	14.85	S	-56.438	-25.754	163	PY	Guairá	Villarica	01/01/1956	NA	si	DINAC	NA	C
+86234	Coronel Oviedo	56	22	39.87	W	25	29	1.48	S	-56.378	-25.484	159	PY	Caaguazú	Coronel Oviedo	01/11/1971	NA	si	DINAC	NA	C
+86246	Aeropuerto “Guaraní” Minga Guazú 	54	50	20.21	W	25	27	21.02	S	-54.839	-25.456	247	PY	Alto Paraná	Minga Guazú	01/08/1997	NA	si	DINAC	NA	C
+86248	Ciudad del Este	54	36	45.3	W	25	31	10.38	S	-54.613	-25.519	196	PY	Alto Paraná	Minga Guazú	01/04/1965	26/06/1997	No	DINAC	NA	C
+86251	Quyquyhó	56	59	24.08	W	26	13	25.31	S	-56.990	-26.224	141	PY	Paraguarí	Quyquyhó	31/12/2010	NA	si	DINAC	NA	C
+86255	Aeródromo de Pilar	58	19	6.18	W	26	52	52.46	S	-58.318	-26.881	58	PY	Ñeembucú	Pilar	01/01/1958	NA	si	DINAC	NA	C
+86260	San Juan Bautista	57	8	2.90	W	26	40	13.00	S	-57.134	-26.670	131	PY	Misiones	San Juan Bautista Misiones	01/01/1956	NA	si	DINAC	NA	C
+86268	Aeródromo de Caazapá	56	21	16.92	W	26	10	31.70	S	-56.355	-26.175	142	PY	Caazapá	Caazapá	01/09/1973	NA	si	DINAC	NA	C
+86285	Capitán Meza	55	19	53.98	W	26	50	2.82	S	-55.332	-26.834	263	PY	Itapúa	Capitán Meza	01/06/1975	NA	si	DINAC	NA	C
+86294	Capitán Miranda	55	47	22.71	W	27	12	0.79	S	-55,79	-27,2	228	PY	Itapúa	Capitán Miranda	01/09/1973	NA	si	DINAC	NA	C
+86297	Encarnación	55	53	46.80	W	27	18	14.70	S	-55.896	-27.304	90	PY	Misiones	Encarnación	01/01/1951	NA	si	DINAC	NA	C
